@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using SalesWebMvc.Models.Enums;
+using SalesWebMvc.Models.ViewModels;
 namespace SalesWebMvc.Models
 {
     public class Seller

@@ -1,6 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using System;
+using SalesWebMvc.Models.Enums;
+using SalesWebMvc.Models.ViewModels;
+
 
 namespace SalesWebMvc.Models
 {

@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using SalesWebMvc.Models;
+
 
 namespace SalesWebMvc.Models.Enums
 {
@@ -11,4 +13,6 @@ namespace SalesWebMvc.Models.Enums
         Billed = 1,
         Canceled = 2,
     }
+
+        
 }
